@@ -1,5 +1,7 @@
 #include <LiquidCrystal.h>
 
+#Another comment for sample commit, remove later
+
 const int sensorPin = A0;
 int setTemp = 20;
 
